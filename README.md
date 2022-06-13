@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radosstojko
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning: Java, HTML5, CSS, JavaScript, Node.js
+- 🌱 I’m currently learning: Java, HTML5, CSS, JavaScript, Node.js, Blockchain Development, Motoko
 - 📫 How to reach me: rados.stojko@gmail.com
 
 <!---
